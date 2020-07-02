@@ -15,7 +15,7 @@ Alongside with simplicity, there are few rules in "Sea Battle", which will help 
 The "Sea Battle" game is very useful for enhancing your memory and imagination and it brings you good memories if you are already familiar with it from the childhood.
 
 
-##Instruction
+## Instruction
 
 1. Download the ```SeaBattle``` file
 2. Good luck and have fun :)
