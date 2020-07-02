@@ -4,7 +4,7 @@ Here is a pretty simple and straightforward boardgame-like "Sea Battle" applicat
 
 At this moment there is only one version for Mac, and more will be added later.
 
-Alongside with simplicity, there are few rules in "Sea Battle", which will help you to figure out how it's working and help you to get more fun. It is recommended to accept suggestion of reading the **tutorial** at the very first stage of the game. Additionaly, you are allowed to use the help ingame commands:
+Alongside with simplicity, there are few rules in "Sea Battle", which will help you to figure out how it's working and bring more fun. It is recommended to accept suggestion of reading the **tutorial** at the very first stage of the game. Additionaly, you are allowed to use the help ingame commands:
 
 ```bs``` - shows you the battle situation a.k.a. how many ships are still remained on the Battlefield
 
