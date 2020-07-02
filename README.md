@@ -1,4 +1,4 @@
-# SeaBattle
+# Intro
 
 Here is a pretty simple and straightforward boardgame-like "Sea Battle" application, which allows you to play versus computer using your *terminal*.
 
